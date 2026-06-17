@@ -56,7 +56,6 @@ function toAlpha2(rawName) {
     'Virgin Islands (British)': 'VG',
     'Virgin Islands (u.s.)': 'VI',
     'Bonaire, Sint Eustatius and Saba': 'BQ',
-    'Congo (The Democratic Republic Of The)': 'CD',
     'Tanzania, United Republic Of': 'TZ',
     'Bolivia (Plurinational State Of)': 'BO',
     'Venezuela (Bolivarian Republic Of)': 'VE',
