@@ -114,7 +114,7 @@
     "@fortawesome/free-solid-svg-icons": "^6.7.2",
     "@fortawesome/react-fontawesome": "^0.2.2",
     "@heroicons/react": "^2.2.0",
-    "@tabler/icons-react": "^3.34.0",
+    "@tabler/icons-react": "^3.44.0",
     "@types/jest": "^30.0.0",
     "@types/react": "^19.0.0",
     "currency-codes": "^2.2.0",
